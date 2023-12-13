@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 💬 Ask me about **vue, wordpress, laravel**
 
-📫 How to reach me **seifeddinkthiri@gmail.com**
+📫 How to reach me **saif@leemcode.com**
 
-📄 Know about my experiences [https://www.linkedin.com/in/md-eliass-hossain-6a761570/](https://www.linkedin.com/in/md-eliass-hossain-6a761570/)
+📄 Know about my experiences [https://www.linkedin.com/in/saif-eddin-kthiri/](https://www.linkedin.com/in/saif-eddin-kthiri/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
