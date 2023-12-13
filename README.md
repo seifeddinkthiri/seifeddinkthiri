@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Saif Eddine Kthiri</h1>
 <h3 align="center">A passionate Web Developer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elias1435&label=Profile%20views&color=0e75b6&style=flat" alt="elias1435" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seifeddinkthiri&label=Profile%20views&color=0e75b6&style=flat" alt="seifeddinkthiri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elias1435" alt="elias1435" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifeddinkthiri" alt="seifeddinkthiri" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/elias1435" target="blank"><img src="https://img.shields.io/twitter/follow/elias1435?logo=twitter&style=for-the-badge" alt="elias1435" /></a> </p>
+<p align="left"> <a href="https://twitter.com/seifeddinkthiri" target="blank"><img src="https://img.shields.io/twitter/follow/seifeddinkthiri?logo=twitter&style=for-the-badge" alt="seifeddinkthiri" /></a> </p>
 
-<!-- 🔭 I’m currently working on [Upwork.com](https://www.upwork.com/freelancers/~0192b2c587ab499b89) [Fiverr.com](https://www.fiverr.com/elias1435) -->
+<!-- 🔭 I’m currently working on [Upwork.com](https://www.upwork.com/freelancers/~0192b2c587ab499b89) [Fiverr.com](https://www.fiverr.com/seifeddinkthiri) -->
 
 👯 I’m looking to collaborate on **wordpress, Laravel, vue**
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about **vue, wordpress, laravel**
 
-📫 How to reach me **elias1435@gmail.com**
+📫 How to reach me **seifeddinkthiri@gmail.com**
 
 📄 Know about my experiences [https://www.linkedin.com/in/md-eliass-hossain-6a761570/](https://www.linkedin.com/in/md-eliass-hossain-6a761570/)
 
@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/elias1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elias1435@gmail.com" height="30" width="40" /></a>
-<a href="https://dev.to/elias1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elias1435@gmail.com" height="30" width="40" /></a>
-<a href="https://twitter.com/elias1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elias1435" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-eliass-hossain-6a761570/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias1435" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3108377/md-elias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="elias1435@gmail.com" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/elias1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elias1435@gmail.com" height="30" width="40" /></a>
-<a href="https://web.facebook.com/elias1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elias1435@gmail.com" height="30" width="40" /></a>
-<a href="https://www.instagram.com/elias1435/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elias1435" height="30" width="40" /></a>
-<a href="https://dribbble.com/elias1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="elias1435" height="30" width="40" /></a>
-<a href="https://www.behance.net/elias1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="elias1435@gmail.com" height="30" width="40" /></a>
-<a href="https://medium.com/@elias1435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elias1435" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC-KCBBLgk49dDMKX2mp93Hg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@elias1435" height="30" width="40" /></a>
+<a href="https://codepen.io/seifeddinkthiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seifeddinkthiri@gmail.com" height="30" width="40" /></a>
+<a href="https://dev.to/seifeddinkthiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="seifeddinkthiri@gmail.com" height="30" width="40" /></a>
+<a href="https://twitter.com/seifeddinkthiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seifeddinkthiri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-eliass-hossain-6a761570/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seifeddinkthiri" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3108377/md-elias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="seifeddinkthiri@gmail.com" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/seifeddinkthiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="seifeddinkthiri@gmail.com" height="30" width="40" /></a>
+<a href="https://web.facebook.com/seifeddinkthiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="seifeddinkthiri@gmail.com" height="30" width="40" /></a>
+<a href="https://www.instagram.com/seifeddinkthiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seifeddinkthiri" height="30" width="40" /></a>
+<a href="https://dribbble.com/seifeddinkthiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="seifeddinkthiri" height="30" width="40" /></a>
+<a href="https://www.behance.net/seifeddinkthiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="seifeddinkthiri@gmail.com" height="30" width="40" /></a>
+<a href="https://medium.com/@seifeddinkthiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@seifeddinkthiri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC-KCBBLgk49dDMKX2mp93Hg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@seifeddinkthiri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeddinkthiri&show_icons=true&locale=en&layout=compact" alt="elias1435" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seifeddinkthiri&show_icons=true&locale=en&layout=compact" alt="seifeddinkthiri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeddinkthiri&show_icons=true&locale=en" alt="elias1435" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seifeddinkthiri&show_icons=true&locale=en" alt="seifeddinkthiri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifeddinkthiri&" alt="elias1435" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seifeddinkthiri&" alt="seifeddinkthiri" /></p>
